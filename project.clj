@@ -10,6 +10,7 @@
                  [org.apache.pdfbox/pdfbox "1.8.7"] ;; PDF
                  [potemkin "0.3.10"] ;; Code organisation
                  [prismatic/schema "0.3.1"] ;; Template validations
+                 [org.clojure/test.check "0.7.0"]
                  ]
   :deploy-repositories [["releases" :clojars]])
 
